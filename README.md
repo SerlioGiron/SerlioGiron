@@ -1,4 +1,4 @@
-# 🌟 Serlio Girón - Computer Systems Engineering Student | Aspiring Blockchain & Software Developer
+# 🌟 Serlio Girón - Computer Systems Engineer | Aspiring Blockchain & Software Developer
 
 **Computer Systems Engineering Student | Co-Founder of The Blockchain Club at UNITEC | Tech Enthusiast | Software Developer**  
 
