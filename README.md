@@ -7,7 +7,8 @@
 ## 🏆 Accomplishments  
 
 - **Academic Recognition** 🏅  
-  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Systems Engineering program at UNITEC.  
+  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Systems Engineering program at UNITEC.
+  - Recognized for achieving the **highest academic average (95.83%)** in the **Advanced Computing** area of the program.
 
 - **Mathematics Olympiad** 🧮  
   - Competed in the **XVII Olimpiada Departamental de Matemáticas** of Francisco Morazán, Honduras.  
@@ -35,7 +36,10 @@
   - Analyzed student movement between classrooms using **Python (Flask)** for backend processing and **React.js** for visualization.  
 
 - **📝 Word Count & Tokenizer with Hadoop**  
-  - Implemented a **MapReduce-based text processing system** to analyze large-scale datasets from Reddit, removing stopwords and identifying trending keywords.  
+  - Implemented a **MapReduce-based text processing system** to analyze large-scale datasets from Reddit, removing stopwords and identifying trending keywords.
+- **🌐 Web3 Token Interaction Frontend**
+  -   Built a **Web3-enabled** frontend application integrating **wagmi** and **ethers.js**, allowing users to connect their wallet, perform **ERC-20** approve and transfer actions, and interact with smart contracts directly.
+  -   Implemented a custom token minting feature, enabling users to mint a token developed personally, all from an intuitive and secure user interface.
 
 ---
 
