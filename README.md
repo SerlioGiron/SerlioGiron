@@ -7,8 +7,8 @@
 ## 🏆 Accomplishments  
 
 - **Academic Recognition** 🏅  
-  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Systems Engineering program at UNITEC.
-  - Recognized for achieving the **highest academic average (95.83%)** in the **Advanced Computing** area of the Computer Systems Engineering program at UNITEC.
+  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Systems Engineering program at university UNITEC.
+  - Recognized for achieving the **highest academic average (95.83%)** in the **Advanced Computing** area of the Computer Systems Engineering program at university UNITEC.
 
 - **Mathematics Olympiad** 🧮  
   - Competed in the **XVII Olimpiada Departamental de Matemáticas** of Francisco Morazán, Honduras.  
