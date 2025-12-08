@@ -1,14 +1,14 @@
-# 🌟 Serlio Girón - Computer Systems Engineer | Software Developer | Aspiring Blockchain Developer
+# 🌟 Serlio Girón - Computer Scientist | Full Stack Developer
 
-**Computer Systems Engineering Student | Co-Founder of The Blockchain Club at UNITEC | Tech Enthusiast | Software Developer**  
+**Co-Founder of The Blockchain Club at UNITEC | Tech Enthusiast**  
 
 ---
 
 ## 🏆 Accomplishments  
 
 - **Academic Recognition** 🏅  
-  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Systems Engineering program at university UNITEC.
-  - Recognized for achieving the **highest academic average (95.83%)** in the **Advanced Computing** area of the Computer Systems Engineering program at university UNITEC.
+  - Awarded for achieving the **highest academic average (85%)** in the **Basic Computing** area of the Computer Science program at university UNITEC.
+  - Recognized for achieving the **highest academic average (95.83%)** in the **Advanced Computing** area of the Computer Science program at university UNITEC.
 
 - **Mathematics Olympiad** 🧮  
   - Competed in the **XVII Olimpiada Departamental de Matemáticas** of Francisco Morazán, Honduras.  
